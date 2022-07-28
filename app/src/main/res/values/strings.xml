@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BDD Learning</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="text_register">Not registered yet ?</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password">Invalid password</string>
+</resources>
