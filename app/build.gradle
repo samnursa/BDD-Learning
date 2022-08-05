@@ -14,7 +14,6 @@ android {
         versionName "1.0"
 
         // change instrumentation to junit cucumber
-        testApplicationId "com.example.bddlearning.tests"
         testInstrumentationRunner "com.example.bddlearning.tests.ExampleAppAndroidTestRunner"
     }
 
@@ -36,7 +35,7 @@ android {
         viewBinding true
     }
 
-    // declared a path for UI tests directory
+    // declared a path for UI tests directory (cucumber feature)
     sourceSets {
         androidTest {
             assets {

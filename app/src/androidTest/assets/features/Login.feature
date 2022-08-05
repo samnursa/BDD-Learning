@@ -1,7 +1,7 @@
 Feature: Login
     Perform login on email and password are inputted
 
-    Rule: email must be in email format and password should be more than 6 contains characters and number
+    Rule: email must be in email format and password should be more than 6 contains characters
         Scenario Outline: Input email and password in wrong format
             Given The app started
             When I input email <email>
@@ -17,11 +17,11 @@ Feature: Login
             Given The app started
             When I input email <email>
             And I input password <password>
-            Then I should <see> error on the view
+            Then I should not see error on the view
 
             Examples:
-            | email              | password   | see   |
-            | espresso@spoon.com | bananacake | false  |
+            | email              | password   |
+            | espresso@spoon.com | bananacake |
 
 #        Scenario: Tap Sign up button
 #            Given The app started
