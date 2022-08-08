@@ -1,7 +1,0 @@
-com.example.bddlearning.test.app-androidTest-0 /Users/devbandung/StudioProjects/BDDLearning/app/build/generated/res/resValues/androidTest/debug
-com.example.bddlearning.test.app-androidTest-1 /Users/devbandung/StudioProjects/BDDLearning/app/build/generated/res/rs/androidTest/debug
-com.example.bddlearning.test.app-mergeDebugAndroidTestResources-2 /Users/devbandung/StudioProjects/BDDLearning/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.example.bddlearning.test.app-mergeDebugAndroidTestResources-3 /Users/devbandung/StudioProjects/BDDLearning/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.example.bddlearning.test.app-merged_res-4 /Users/devbandung/StudioProjects/BDDLearning/app/build/intermediates/merged_res/debugAndroidTest
-com.example.bddlearning.test.app-androidTest-5 /Users/devbandung/StudioProjects/BDDLearning/app/src/androidTest/res
-com.example.bddlearning.test.app-androidTestDebug-6 /Users/devbandung/StudioProjects/BDDLearning/app/src/androidTestDebug/res
