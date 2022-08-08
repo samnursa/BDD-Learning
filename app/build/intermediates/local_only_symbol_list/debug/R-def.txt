@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnLogin
+id btnRegister
+id etEmail
+id etPassword
+id layoutEmail
+id layoutPassword
+layout activity_login
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hint_email
+string hint_password
+string invalid_email
+string invalid_password
+string login
+string text_register
+style Theme.BDDLearning
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name=".Login" tests="3" failures="0" errors="0" skipped="0" time="11.133" timestamp="2022-08-05T13:20:20" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_2_API_24(AVD) - 7.0" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="Input email and password in wrong format 1" classname=".Login" time="3.883" />
+  <testcase name="Input email and password in wrong format 2" classname=".Login" time="3.133" />
+  <testcase name="Input email and password in correct format 1" classname=".Login" time="3.302" />
+</testsuite>
